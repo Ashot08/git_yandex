@@ -170,3 +170,10 @@ git restore FILENAME
 ```
 
 «Откатить» изменения, которые не попали ни в staging, ни в коммит - Changes not staged for commit (modified)
+
+
+```
+git reset --hard COMMIT_HASH
+```
+
+«Откатить» коммит с хэшем = COMMIT_HASH
