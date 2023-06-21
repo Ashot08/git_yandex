@@ -163,3 +163,10 @@ git restore --staged .
 ```
 
 «Сбросить» все файлы из staged обратно в untracked/modified
+
+
+```
+git restore FILENAME
+```
+
+«Откатить» изменения, которые не попали ни в staging, ни в коммит - Changes not staged for commit (modified)
