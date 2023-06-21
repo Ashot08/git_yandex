@@ -151,8 +151,11 @@ git commit --amend
 Дополнить последний, уже сделанный коммит + вручную изменить комментарий в редакторе (nano, vim итп)
 
 
+```
+git restore --staged FILENAME	
+```
 
-
+Убрать файл из staging (отменить git add для файла с именем FILENAME)
 
 
 
