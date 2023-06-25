@@ -176,7 +176,7 @@ git restore FILENAME
 git reset --hard COMMIT_HASH
 ```
 
-«Откатить» коммит с хэшем = COMMIT_HASH
+«Откатить» к коммиту с хэшем = COMMIT_HASH
 
 
 ```
