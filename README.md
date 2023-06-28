@@ -207,3 +207,10 @@ git branch
 вывести инфу о ветках
 
 
+```
+git branch BRANCH_NAME	
+```
+
+создань ветку с именем BRANCH_NAME
+
+
