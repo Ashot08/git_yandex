@@ -194,6 +194,14 @@ git diff --staged
 
 
 ```
+git diff HASH_A HASH_B	
+```
+
+сравнить коммиты, где HASH_A, HASH_B - это хэши коммитов (как из HASH_A получить HASH_B) так же на месте
+HASH_A или HASH_B может быть имя ветки (branch)
+
+
+```
 git clone REP_URL						
 ```
 
