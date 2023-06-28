@@ -214,3 +214,10 @@ git branch BRANCH_NAME
 создань ветку с именем BRANCH_NAME
 
 
+```
+git checkout BRANCH_NAME
+```
+
+переключиться на ветку с именем BRANCH_NAME
+
+
