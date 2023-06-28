@@ -221,3 +221,13 @@ git checkout BRANCH_NAME
 переключиться на ветку с именем BRANCH_NAME
 
 
+```
+git checkout -b BRANCH_NAME
+```
+
+создать ветку и сразу переключиться на неё
+
+
+
+
+
