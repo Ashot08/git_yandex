@@ -211,7 +211,7 @@ git branch
 git branch BRANCH_NAME	
 ```
 
-создань ветку с именем BRANCH_NAME
+создать ветку с именем BRANCH_NAME
 
 
 ```
