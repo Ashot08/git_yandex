@@ -245,4 +245,8 @@ git merge BRANCH_NAME
 слить ветку с именем BRANCH_NAME с текущей веткой
 
 
+```
+git branch -D BRANCH_NAME
+```
 
+удалить ветку с именем BRANCH_NAME
