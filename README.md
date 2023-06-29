@@ -238,6 +238,11 @@ git checkout -b BRANCH_NAME
 создать ветку и сразу переключиться на неё
 
 
+```
+git merge BRANCH_NAME
+```
+
+слить ветку с именем BRANCH_NAME с текущей веткой
 
 
 
